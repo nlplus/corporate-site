@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="9.91" viewBox="0 0 17 9.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ico-pagetop.svg" class="cls-1" d="M751.485,3936l-1.414,1.41L743,3930.34l-7.071,7.07-1.415-1.41,7.072-7.07h0l1.414-1.41,1.414,1.41h0Z" transform="translate(-734.5 -3927.5)"/>
+</svg>
