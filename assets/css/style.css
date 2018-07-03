@@ -1976,7 +1976,7 @@ img {
     .btn-pagetop {
       bottom: auto;
       width: 100%;
-      top: -13.33333vw;
+      top: -16vw;
       height: 10.66667vw;
       right: 0vw; } }
   .btn-pagetop a {
@@ -2013,7 +2013,7 @@ img {
   color: #fff; }
   @media only screen and (max-width: 750px) {
     .footer__top {
-      padding: 14.13333vw 0vw; } }
+      padding: 20vw 0vw 14.13333vw 0vw; } }
   .footer__top a {
     color: #fff; }
 
