@@ -2524,7 +2524,7 @@ input[type=checkbox]:checked + .checkbox:before {
       .page-top .header.show {
         position: fixed; }
         .page-top .header.show .button-menu span {
-          background-color: #000; } }
+          background-color: #fff; } }
   .page-top .header.hide {
     -webkit-transform: translate3d(0, -100%, 0);
             transform: translate3d(0, -100%, 0); }
@@ -2538,7 +2538,7 @@ input[type=checkbox]:checked + .checkbox:before {
               transform: translate3d(0, 0, 0);
       background-color: transparent; }
       .page-top .header .button-menu span {
-        background-color: #000000; }
+        background-color: #fff; }
       .page-top .header .header__logo a {
         -webkit-transition-property: color;
         transition-property: color;
@@ -2699,8 +2699,8 @@ input[type=checkbox]:checked + .checkbox:before {
         height: 0.4vw;
         left: 5.06667vw;
         top: 7.46667vw;
-        background-color: #000;
-        background-color: #000; }
+
+        background-color: #fff; }
         .button-menu-close span:nth-child(1) {
           -webkit-transform: rotate(45deg);
                   transform: rotate(45deg); }
@@ -3683,7 +3683,7 @@ input[type=checkbox]:checked + .checkbox:before {
   z-index: 100;
   overflow: scroll;
   -webkit-overflow-scrolling: touch;
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(0, 0, 0, 0.95);
   text-align: center;
   -ms-overflow-style: none; }
   .sp-menu::-webkit-scrollbar {
