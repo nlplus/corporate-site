@@ -3284,7 +3284,7 @@ input[type=checkbox]:checked + .checkbox:before {
     top: 6px;
     bottom: 6px;
     left: 164px;
-    background-color: #000; }
+    background-color: #fff; }
     @media only screen and (max-width: 750px) {
       .news-headline-compact__divide {
         display: none; } }
