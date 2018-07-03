@@ -3290,7 +3290,7 @@ input[type=checkbox]:checked + .checkbox:before {
         display: none; } }
   .news-headline-compact__title {
     width: 126px;
-    margin-top: 4px;
+    /* margin-top: 4px; */
     text-align: right; }
     @media only screen and (max-width: 750px) {
       .news-headline-compact__title {
