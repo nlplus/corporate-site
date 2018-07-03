@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="5" viewBox="0 0 7 5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ico-arrow-select.svg" class="cls-1" d="M1135,444v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h-1v-2h1v1h1v1h1v1h1v-1h1v-1h1v-1h1v2h-1Z" transform="translate(-1129 -442)"/>
+</svg>

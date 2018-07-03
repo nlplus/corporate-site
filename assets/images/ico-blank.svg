@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #787878;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ico-blank.svg" class="cls-1" d="M601,693v-4h-4v-2h6v6h-2Zm-2,4h-6v-6h6v6Z" transform="translate(-593 -687)"/>
+</svg>

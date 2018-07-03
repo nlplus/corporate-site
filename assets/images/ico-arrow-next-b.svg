@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="11" viewBox="0 0 7 11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ico-arrow-next-b.svg" class="cls-1" d="M4079,2080.5l-1.4,1.38h0l-4.21,4.12-1.4-1.37,4.21-4.13-4.21-4.13,1.4-1.37,4.21,4.12h0Z" transform="translate(-4072 -2075)"/>
+</svg>
