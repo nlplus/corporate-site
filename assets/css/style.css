@@ -2056,7 +2056,7 @@ img {
     width: auto; }
     @media only screen and (max-width: 750px) {
       .footer__logo img {
-        height: 8vw; } }
+        height: 12vw; } }
 
 .footer__nav {
   display: -webkit-box;
@@ -4001,7 +4001,7 @@ input[type=checkbox]:checked + .checkbox:before {
         left: 0;
         -webkit-transform: translateY(0);
                 transform: translateY(0);
-        bottom: 15.46667vw;
+        bottom: 45.46667vw;
         padding-left: 6.13333vw;
         padding-right: 6.13333vw; } }
   .top-main__catch {
